@@ -6,6 +6,7 @@ public class HelloGitWorld {
 
         System.out.println("HelloGitWorld");
         
-        //Justing testing to see if this message appears on IntelliJ since i mad chages on Github
+        //Testing to see if this message appears on IntelliJ since I made changes on Github.
+        //I see the changes thank you
     }
 }
